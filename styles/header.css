@@ -9,7 +9,7 @@
 .navbar {
     display: flex;
     justify-content: space-between;
-    padding: 0 20px;
+    padding: 0 30px;
 }
 
 .navbar-list {
