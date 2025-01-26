@@ -1,0 +1,63 @@
+.home {
+    display: flex;
+    justify-content: center;
+}
+
+.home-image {
+
+}
+
+.home-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+}
+
+.container {
+
+}
+
+.home-card {
+    margin-top: 145px;
+}
+
+.home-title {
+    text-align: left;
+    font-size: 60px;
+    font-weight: 500;
+    line-height: 110%;
+}
+
+.spanik {
+    color: rgb(89, 141, 102);
+}
+
+.home-subtitle {
+    text-align: left;
+    margin: 20px 0 60px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 150%;
+}
+
+.home-button {
+    background-color: unset;
+    width: 225px;
+    height: 65px;display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 6;
+    padding: 20px 60px 20px 60px;
+    border: 1px solid rgb(89, 141, 102);
+    color: rgb(89, 141, 102);
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 23px;
+}
+
+.home-button:hover {
+    opacity: 0.7;
+    transition-duration: 0.2s;
+    cursor: pointer;
+}
